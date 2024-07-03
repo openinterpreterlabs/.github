@@ -1,7 +1,7 @@
 ## Welcome to OI Labs 👋
 
 
-### This repo exists to fix bugs and demonstrate all experiments and creative ideas for OI
+### This repo exists to fix bugs and demonstrate all experiments and creative ideas for OI (more coming soon)
 <!--
 
 **Here are some ideas to get you started:**
